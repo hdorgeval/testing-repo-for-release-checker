@@ -1,0 +1,22 @@
+{
+  "name": "testing-repo-for-release-checker",
+  "version": "1.0.0",
+  "description": "Testing repo for release-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdorgeval/testing-repo-for-release-checker.git"
+  },
+  "author": "Henri d'Orgeval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdorgeval/testing-repo-for-release-checker/issues"
+  },
+  "homepage": "https://github.com/hdorgeval/testing-repo-for-release-checker#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
